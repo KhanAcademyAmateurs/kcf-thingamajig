@@ -1,2 +1,2 @@
 # KCF
-The place where KCF is looking at group and notices he just got invited to it.
+The place where KCF shows you that he beat you in followers: https://github.com/kingcodefish/followers
